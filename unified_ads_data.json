@@ -1,0 +1,766 @@
+{
+  "metadata": {
+    "total_rows": 330,
+    "platforms": [
+      "Facebook",
+      "Google",
+      "TikTok"
+    ],
+    "date_start": "2024-01-01T00:00:00",
+    "date_end": "2024-01-30T00:00:00",
+    "generated": "2026-06-03T03:42:50.193415"
+  },
+  "summary": {
+    "total_cost": 130244.9,
+    "total_impressions": 40473185,
+    "total_clicks": 688333,
+    "total_conversions": 13363,
+    "avg_ctr": 2.3883939393939397,
+    "avg_cpc": 0.24606060606060606,
+    "avg_cpa": 10.883606060606061
+  },
+  "by_platform": {
+    "cost": {
+      "Facebook": 18292.0,
+      "Google": 37686.2,
+      "TikTok": 74266.7
+    },
+    "impressions": {
+      "Facebook": 4541474,
+      "Google": 7223544,
+      "TikTok": 28708167
+    },
+    "clicks": {
+      "Facebook": 88899,
+      "Google": 137590,
+      "TikTok": 461844
+    },
+    "conversions": {
+      "Facebook": 2395,
+      "Google": 4218,
+      "TikTok": 6750
+    }
+  },
+  "daily_data": [
+    {
+      "Date": "2024-01-01 00:00:00",
+      "platform": "Facebook",
+      "cost": 533.2,
+      "impressions": 92646,
+      "clicks": 2693,
+      "conversions": 69
+    },
+    {
+      "Date": "2024-01-01 00:00:00",
+      "platform": "Google",
+      "cost": 1225.9,
+      "impressions": 137024,
+      "clicks": 4469,
+      "conversions": 135
+    },
+    {
+      "Date": "2024-01-01 00:00:00",
+      "platform": "TikTok",
+      "cost": 1481.2,
+      "impressions": 547257,
+      "clicks": 8691,
+      "conversions": 124
+    },
+    {
+      "Date": "2024-01-02 00:00:00",
+      "platform": "Facebook",
+      "cost": 554.0,
+      "impressions": 92812,
+      "clicks": 2791,
+      "conversions": 73
+    },
+    {
+      "Date": "2024-01-02 00:00:00",
+      "platform": "Google",
+      "cost": 1225.6000000000001,
+      "impressions": 139035,
+      "clicks": 4568,
+      "conversions": 140
+    },
+    {
+      "Date": "2024-01-02 00:00:00",
+      "platform": "TikTok",
+      "cost": 1552.3999999999999,
+      "impressions": 578590,
+      "clicks": 9257,
+      "conversions": 132
+    },
+    {
+      "Date": "2024-01-03 00:00:00",
+      "platform": "Facebook",
+      "cost": 546.9,
+      "impressions": 98369,
+      "clicks": 2912,
+      "conversions": 73
+    },
+    {
+      "Date": "2024-01-03 00:00:00",
+      "platform": "Google",
+      "cost": 960.3,
+      "impressions": 193691,
+      "clicks": 2546,
+      "conversions": 79
+    },
+    {
+      "Date": "2024-01-03 00:00:00",
+      "platform": "TikTok",
+      "cost": 1948.0,
+      "impressions": 681479,
+      "clicks": 11035,
+      "conversions": 183
+    },
+    {
+      "Date": "2024-01-04 00:00:00",
+      "platform": "Facebook",
+      "cost": 477.4,
+      "impressions": 133691,
+      "clicks": 1935,
+      "conversions": 62
+    },
+    {
+      "Date": "2024-01-04 00:00:00",
+      "platform": "Google",
+      "cost": 803.5,
+      "impressions": 229701,
+      "clicks": 4068,
+      "conversions": 129
+    },
+    {
+      "Date": "2024-01-04 00:00:00",
+      "platform": "TikTok",
+      "cost": 1810.1999999999998,
+      "impressions": 825913,
+      "clicks": 13025,
+      "conversions": 159
+    },
+    {
+      "Date": "2024-01-05 00:00:00",
+      "platform": "Facebook",
+      "cost": 446.3,
+      "impressions": 130913,
+      "clicks": 1757,
+      "conversions": 55
+    },
+    {
+      "Date": "2024-01-05 00:00:00",
+      "platform": "Google",
+      "cost": 953.0999999999999,
+      "impressions": 199025,
+      "clicks": 2613,
+      "conversions": 83
+    },
+    {
+      "Date": "2024-01-05 00:00:00",
+      "platform": "TikTok",
+      "cost": 2050.9,
+      "impressions": 719924,
+      "clicks": 11757,
+      "conversions": 194
+    },
+    {
+      "Date": "2024-01-06 00:00:00",
+      "platform": "Facebook",
+      "cost": 412.4,
+      "impressions": 149701,
+      "clicks": 2412,
+      "conversions": 40
+    },
+    {
+      "Date": "2024-01-06 00:00:00",
+      "platform": "Google",
+      "cost": 806.5,
+      "impressions": 227813,
+      "clicks": 4123,
+      "conversions": 129
+    },
+    {
+      "Date": "2024-01-06 00:00:00",
+      "platform": "TikTok",
+      "cost": 1856.8,
+      "impressions": 852469,
+      "clicks": 13302,
+      "conversions": 163
+    },
+    {
+      "Date": "2024-01-07 00:00:00",
+      "platform": "Facebook",
+      "cost": 591.6,
+      "impressions": 100566,
+      "clicks": 3057,
+      "conversions": 83
+    },
+    {
+      "Date": "2024-01-07 00:00:00",
+      "platform": "Google",
+      "cost": 1265.6,
+      "impressions": 141590,
+      "clicks": 4623,
+      "conversions": 142
+    },
+    {
+      "Date": "2024-01-07 00:00:00",
+      "platform": "TikTok",
+      "cost": 1681.2,
+      "impressions": 630147,
+      "clicks": 10146,
+      "conversions": 143
+    },
+    {
+      "Date": "2024-01-08 00:00:00",
+      "platform": "Facebook",
+      "cost": 446.1,
+      "impressions": 132813,
+      "clicks": 1746,
+      "conversions": 56
+    },
+    {
+      "Date": "2024-01-08 00:00:00",
+      "platform": "Google",
+      "cost": 972.8,
+      "impressions": 196479,
+      "clicks": 2568,
+      "conversions": 80
+    },
+    {
+      "Date": "2024-01-08 00:00:00",
+      "platform": "TikTok",
+      "cost": 2087.7,
+      "impressions": 753480,
+      "clicks": 12046,
+      "conversions": 199
+    },
+    {
+      "Date": "2024-01-09 00:00:00",
+      "platform": "Facebook",
+      "cost": 435.1,
+      "impressions": 156702,
+      "clicks": 2577,
+      "conversions": 47
+    },
+    {
+      "Date": "2024-01-09 00:00:00",
+      "platform": "Google",
+      "cost": 817.7,
+      "impressions": 228035,
+      "clicks": 4191,
+      "conversions": 131
+    },
+    {
+      "Date": "2024-01-09 00:00:00",
+      "platform": "TikTok",
+      "cost": 1961.0,
+      "impressions": 909147,
+      "clicks": 14146,
+      "conversions": 173
+    },
+    {
+      "Date": "2024-01-10 00:00:00",
+      "platform": "Facebook",
+      "cost": 596.5,
+      "impressions": 100812,
+      "clicks": 3046,
+      "conversions": 84
+    },
+    {
+      "Date": "2024-01-10 00:00:00",
+      "platform": "Google",
+      "cost": 1239.0,
+      "impressions": 138813,
+      "clicks": 4457,
+      "conversions": 135
+    },
+    {
+      "Date": "2024-01-10 00:00:00",
+      "platform": "TikTok",
+      "cost": 1674.9,
+      "impressions": 625368,
+      "clicks": 10057,
+      "conversions": 144
+    },
+    {
+      "Date": "2024-01-11 00:00:00",
+      "platform": "Facebook",
+      "cost": 732.3,
+      "impressions": 182713,
+      "clicks": 3624,
+      "conversions": 100
+    },
+    {
+      "Date": "2024-01-11 00:00:00",
+      "platform": "Google",
+      "cost": 1464.0,
+      "impressions": 282147,
+      "clicks": 5280,
+      "conversions": 164
+    },
+    {
+      "Date": "2024-01-11 00:00:00",
+      "platform": "TikTok",
+      "cost": 2816.1,
+      "impressions": 1082602,
+      "clicks": 17713,
+      "conversions": 260
+    },
+    {
+      "Date": "2024-01-12 00:00:00",
+      "platform": "Facebook",
+      "cost": 689.2,
+      "impressions": 173470,
+      "clicks": 3305,
+      "conversions": 89
+    },
+    {
+      "Date": "2024-01-12 00:00:00",
+      "platform": "Google",
+      "cost": 1407.2,
+      "impressions": 275036,
+      "clicks": 5047,
+      "conversions": 153
+    },
+    {
+      "Date": "2024-01-12 00:00:00",
+      "platform": "TikTok",
+      "cost": 2709.3,
+      "impressions": 1044259,
+      "clicks": 16947,
+      "conversions": 246
+    },
+    {
+      "Date": "2024-01-13 00:00:00",
+      "platform": "Facebook",
+      "cost": 588.8,
+      "impressions": 151602,
+      "clicks": 2820,
+      "conversions": 72
+    },
+    {
+      "Date": "2024-01-13 00:00:00",
+      "platform": "Google",
+      "cost": 1248.7,
+      "impressions": 246380,
+      "clicks": 4502,
+      "conversions": 136
+    },
+    {
+      "Date": "2024-01-13 00:00:00",
+      "platform": "TikTok",
+      "cost": 2466.9,
+      "impressions": 938258,
+      "clicks": 15158,
+      "conversions": 225
+    },
+    {
+      "Date": "2024-01-14 00:00:00",
+      "platform": "Facebook",
+      "cost": 553.3,
+      "impressions": 143158,
+      "clicks": 2633,
+      "conversions": 65
+    },
+    {
+      "Date": "2024-01-14 00:00:00",
+      "platform": "Google",
+      "cost": 1197.9,
+      "impressions": 238369,
+      "clicks": 4302,
+      "conversions": 129
+    },
+    {
+      "Date": "2024-01-14 00:00:00",
+      "platform": "TikTok",
+      "cost": 2386.4,
+      "impressions": 904824,
+      "clicks": 14513,
+      "conversions": 216
+    },
+    {
+      "Date": "2024-01-15 00:00:00",
+      "platform": "Facebook",
+      "cost": 637.9,
+      "impressions": 163813,
+      "clicks": 3038,
+      "conversions": 82
+    },
+    {
+      "Date": "2024-01-15 00:00:00",
+      "platform": "Google",
+      "cost": 1334.9,
+      "impressions": 263814,
+      "clicks": 4791,
+      "conversions": 146
+    },
+    {
+      "Date": "2024-01-15 00:00:00",
+      "platform": "TikTok",
+      "cost": 2560.1,
+      "impressions": 980380,
+      "clicks": 15824,
+      "conversions": 233
+    },
+    {
+      "Date": "2024-01-16 00:00:00",
+      "platform": "Facebook",
+      "cost": 705.2,
+      "impressions": 176380,
+      "clicks": 3391,
+      "conversions": 95
+    },
+    {
+      "Date": "2024-01-16 00:00:00",
+      "platform": "Google",
+      "cost": 1408.1,
+      "impressions": 273824,
+      "clicks": 5113,
+      "conversions": 158
+    },
+    {
+      "Date": "2024-01-16 00:00:00",
+      "platform": "TikTok",
+      "cost": 2893.6,
+      "impressions": 1114935,
+      "clicks": 18026,
+      "conversions": 266
+    },
+    {
+      "Date": "2024-01-17 00:00:00",
+      "platform": "Facebook",
+      "cost": 748.3,
+      "impressions": 183036,
+      "clicks": 3635,
+      "conversions": 105
+    },
+    {
+      "Date": "2024-01-17 00:00:00",
+      "platform": "Google",
+      "cost": 1471.6,
+      "impressions": 285380,
+      "clicks": 5446,
+      "conversions": 166
+    },
+    {
+      "Date": "2024-01-17 00:00:00",
+      "platform": "TikTok",
+      "cost": 3048.2,
+      "impressions": 1171591,
+      "clicks": 18936,
+      "conversions": 280
+    },
+    {
+      "Date": "2024-01-18 00:00:00",
+      "platform": "Facebook",
+      "cost": 715.2,
+      "impressions": 175380,
+      "clicks": 3418,
+      "conversions": 97
+    },
+    {
+      "Date": "2024-01-18 00:00:00",
+      "platform": "Google",
+      "cost": 1431.4,
+      "impressions": 278713,
+      "clicks": 5225,
+      "conversions": 160
+    },
+    {
+      "Date": "2024-01-18 00:00:00",
+      "platform": "TikTok",
+      "cost": 2959.3,
+      "impressions": 1134825,
+      "clicks": 18224,
+      "conversions": 271
+    },
+    {
+      "Date": "2024-01-19 00:00:00",
+      "platform": "Facebook",
+      "cost": 673.5,
+      "impressions": 169137,
+      "clicks": 3221,
+      "conversions": 89
+    },
+    {
+      "Date": "2024-01-19 00:00:00",
+      "platform": "Google",
+      "cost": 1374.4,
+      "impressions": 270258,
+      "clicks": 4958,
+      "conversions": 151
+    },
+    {
+      "Date": "2024-01-19 00:00:00",
+      "platform": "TikTok",
+      "cost": 2826.1000000000004,
+      "impressions": 1092602,
+      "clicks": 17591,
+      "conversions": 258
+    },
+    {
+      "Date": "2024-01-20 00:00:00",
+      "platform": "Facebook",
+      "cost": 598.8,
+      "impressions": 154925,
+      "clicks": 2891,
+      "conversions": 76
+    },
+    {
+      "Date": "2024-01-20 00:00:00",
+      "platform": "Google",
+      "cost": 1234.0,
+      "impressions": 252369,
+      "clicks": 4447,
+      "conversions": 133
+    },
+    {
+      "Date": "2024-01-20 00:00:00",
+      "platform": "TikTok",
+      "cost": 2607.2,
+      "impressions": 1006492,
+      "clicks": 16069,
+      "conversions": 238
+    },
+    {
+      "Date": "2024-01-21 00:00:00",
+      "platform": "Facebook",
+      "cost": 544.8,
+      "impressions": 147036,
+      "clicks": 2691,
+      "conversions": 68
+    },
+    {
+      "Date": "2024-01-21 00:00:00",
+      "platform": "Google",
+      "cost": 1188.1,
+      "impressions": 241047,
+      "clicks": 4279,
+      "conversions": 128
+    },
+    {
+      "Date": "2024-01-21 00:00:00",
+      "platform": "TikTok",
+      "cost": 2422.5,
+      "impressions": 932592,
+      "clicks": 15047,
+      "conversions": 221
+    },
+    {
+      "Date": "2024-01-22 00:00:00",
+      "platform": "Facebook",
+      "cost": 618.6,
+      "impressions": 159602,
+      "clicks": 2991,
+      "conversions": 81
+    },
+    {
+      "Date": "2024-01-22 00:00:00",
+      "platform": "Google",
+      "cost": 1324.0,
+      "impressions": 261803,
+      "clicks": 4791,
+      "conversions": 146
+    },
+    {
+      "Date": "2024-01-22 00:00:00",
+      "platform": "TikTok",
+      "cost": 2731.5,
+      "impressions": 1044259,
+      "clicks": 16947,
+      "conversions": 246
+    },
+    {
+      "Date": "2024-01-23 00:00:00",
+      "platform": "Facebook",
+      "cost": 674.0,
+      "impressions": 171046,
+      "clicks": 3257,
+      "conversions": 88
+    },
+    {
+      "Date": "2024-01-23 00:00:00",
+      "platform": "Google",
+      "cost": 1401.0,
+      "impressions": 274491,
+      "clicks": 5146,
+      "conversions": 158
+    },
+    {
+      "Date": "2024-01-23 00:00:00",
+      "platform": "TikTok",
+      "cost": 2893.6,
+      "impressions": 1114935,
+      "clicks": 18026,
+      "conversions": 266
+    },
+    {
+      "Date": "2024-01-24 00:00:00",
+      "platform": "Facebook",
+      "cost": 725.0,
+      "impressions": 179925,
+      "clicks": 3535,
+      "conversions": 99
+    },
+    {
+      "Date": "2024-01-24 00:00:00",
+      "platform": "Google",
+      "cost": 1481.3,
+      "impressions": 287703,
+      "clicks": 5436,
+      "conversions": 169
+    },
+    {
+      "Date": "2024-01-24 00:00:00",
+      "platform": "TikTok",
+      "cost": 3171.7,
+      "impressions": 1209369,
+      "clicks": 19491,
+      "conversions": 290
+    },
+    {
+      "Date": "2024-01-25 00:00:00",
+      "platform": "Facebook",
+      "cost": 763.0999999999999,
+      "impressions": 185924,
+      "clicks": 3724,
+      "conversions": 107
+    },
+    {
+      "Date": "2024-01-25 00:00:00",
+      "platform": "Google",
+      "cost": 1529.5,
+      "impressions": 295380,
+      "clicks": 5636,
+      "conversions": 176
+    },
+    {
+      "Date": "2024-01-25 00:00:00",
+      "platform": "TikTok",
+      "cost": 3258.8,
+      "impressions": 1249148,
+      "clicks": 20102,
+      "conversions": 298
+    },
+    {
+      "Date": "2024-01-26 00:00:00",
+      "platform": "Facebook",
+      "cost": 728.0,
+      "impressions": 176703,
+      "clicks": 3429,
+      "conversions": 100
+    },
+    {
+      "Date": "2024-01-26 00:00:00",
+      "platform": "Google",
+      "cost": 1455.4,
+      "impressions": 285480,
+      "clicks": 5269,
+      "conversions": 164
+    },
+    {
+      "Date": "2024-01-26 00:00:00",
+      "platform": "TikTok",
+      "cost": 3048.2,
+      "impressions": 1171591,
+      "clicks": 18936,
+      "conversions": 280
+    },
+    {
+      "Date": "2024-01-27 00:00:00",
+      "platform": "Facebook",
+      "cost": 626.9000000000001,
+      "impressions": 162925,
+      "clicks": 3035,
+      "conversions": 83
+    },
+    {
+      "Date": "2024-01-27 00:00:00",
+      "platform": "Google",
+      "cost": 1398.6999999999998,
+      "impressions": 275925,
+      "clicks": 5058,
+      "conversions": 155
+    },
+    {
+      "Date": "2024-01-27 00:00:00",
+      "platform": "TikTok",
+      "cost": 2826.1000000000004,
+      "impressions": 1092602,
+      "clicks": 17591,
+      "conversions": 258
+    },
+    {
+      "Date": "2024-01-28 00:00:00",
+      "platform": "Facebook",
+      "cost": 584.8,
+      "impressions": 155379,
+      "clicks": 2850,
+      "conversions": 75
+    },
+    {
+      "Date": "2024-01-28 00:00:00",
+      "platform": "Google",
+      "cost": 1297.0,
+      "impressions": 260036,
+      "clicks": 4635,
+      "conversions": 138
+    },
+    {
+      "Date": "2024-01-28 00:00:00",
+      "platform": "TikTok",
+      "cost": 2675.5,
+      "impressions": 1041481,
+      "clicks": 16802,
+      "conversions": 247
+    },
+    {
+      "Date": "2024-01-29 00:00:00",
+      "platform": "Facebook",
+      "cost": 657.3,
+      "impressions": 166925,
+      "clicks": 3166,
+      "conversions": 88
+    },
+    {
+      "Date": "2024-01-29 00:00:00",
+      "platform": "Google",
+      "cost": 1363.4,
+      "impressions": 269147,
+      "clicks": 4912,
+      "conversions": 149
+    },
+    {
+      "Date": "2024-01-29 00:00:00",
+      "platform": "TikTok",
+      "cost": 2893.6,
+      "impressions": 1114935,
+      "clicks": 18026,
+      "conversions": 266
+    },
+    {
+      "Date": "2024-01-30 00:00:00",
+      "platform": "Facebook",
+      "cost": 687.5,
+      "impressions": 173370,
+      "clicks": 3319,
+      "conversions": 94
+    },
+    {
+      "Date": "2024-01-30 00:00:00",
+      "platform": "Google",
+      "cost": 1405.6000000000001,
+      "impressions": 275036,
+      "clicks": 5091,
+      "conversions": 156
+    },
+    {
+      "Date": "2024-01-30 00:00:00",
+      "platform": "TikTok",
+      "cost": 2967.7,
+      "impressions": 1142713,
+      "clicks": 18413,
+      "conversions": 271
+    }
+  ]
+}
